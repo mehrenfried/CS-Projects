@@ -37,3 +37,5 @@ Empower Girls to See Something They Can Do
 Jeff Stern --> jeff@girlswhocode.com --> @jeff_stern
 Kari Bancroft --> kari@girlswhocode.com --> @karianneban
 Emily Reid --> emilyr@girlswhocode.com --> @emilyerinreid
+
+#GWCsigcse
