@@ -13,6 +13,7 @@ Soft Skills Complement Hard Skills
 Technical Content and Authentic Exposure
 
 **Girls Who Code Summer**
+
 20-25 hours / wk of in class time
 Video Games (Scratch)
 Robotics (Python)
@@ -22,6 +23,7 @@ Web Applications (Java Script, HTML, CSS)
 Final Projects
 
 **Action Points**
+
 - [ ] Chris Johnson --> 3d Modeling and Intro To Coding --> Friday Poster Session
 - [ ] Establish data metrics of CS women
 - [ ] Names of Alumni Women through CS
