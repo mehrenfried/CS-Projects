@@ -29,4 +29,8 @@ Final Projects
 - [ ] Names of Alumni Women through CS
 - [ ] Alumni Speaker Program
 
+Idea --> Abstraction --> Algorithm --> Code
+
+
+
 Lead Teacher and Two TAs
