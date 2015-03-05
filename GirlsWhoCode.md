@@ -28,9 +28,11 @@ Final Projects
 - [ ] Establish data metrics of CS women
 - [ ] Names of Alumni Women through CS
 - [ ] Alumni Speaker Program
+- [ ] Imposter Syndrome Study
 
 Idea --> Abstraction --> Algorithm --> Code
 
+Empower Girls to See Something They Can Do
 
 
 Lead Teacher and Two TAs
