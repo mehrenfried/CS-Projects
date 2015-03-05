@@ -5,6 +5,7 @@ Best Buy Commerical - https://www.youtube.com/watch?v=2p4dvkhbsCU
 "Computer Science is a Way to Solve any Problem you want to solve."
 
 **Pillars**
+
 Open ended / continue to build on (new level)
 Project-based & interest driven assignments (2D arrays via 2048 not matrix multiplication)
 Safe learning environment & community (collaboration over competition / overcoming perfectionism / thought wall)
